@@ -5,7 +5,7 @@ hidden: true
 title: AyeVDI™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: assets/images/ayevdi_banner.png
+  overlay_image: assets/images/ayevdi_banner2.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
